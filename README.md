@@ -1,5 +1,7 @@
 # Finger Trails & Utils (URP / Ultraleap / XR Hands / HoloLens 2)
 
+![Demo](https://github.com/frmurgia/kobi-UX-Utils/blob/main/ezgif-8b2843c08ff24e.gif?raw=true)
+
 Utilities
 
 ---
